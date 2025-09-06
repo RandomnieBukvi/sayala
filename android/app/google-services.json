@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "768054401347",
+    "project_id": "zhanashyr-42394",
+    "storage_bucket": "zhanashyr-42394.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768054401347:android:d0f7229b2b74c55728b7f6",
+        "android_client_info": {
+          "package_name": "com.example.zhanashyr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3ALkWMWT04OZf4aWi79wr8ktVDxSANRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
